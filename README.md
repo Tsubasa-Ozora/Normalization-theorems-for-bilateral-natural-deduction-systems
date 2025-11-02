@@ -1,4 +1,4 @@
-# Normalization-theorems-for-bilateral-natural-deduction-systems
+# Normalization theorems for bilateral natural deduction systems
 I'm sharing my master's thesis here. It was completed in 2023 under the supervision of PD Dr. Luca Tranchini. I would like to thank him for his guidance.
 
 ## Abstract:
@@ -17,3 +17,4 @@ systems in a uniform manner. Our proof strategy differs from those given in
 of redexes. The uniformity of our approach illustrates how the proofs of the
 fragments contribute to the proof of the full system. Lastly, we prove the
 subformula property for the full system.
+
